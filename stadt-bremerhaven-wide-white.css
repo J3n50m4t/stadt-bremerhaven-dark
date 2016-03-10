@@ -8,12 +8,17 @@ div
   height: 0px;
   width: 0px;
 }
-div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi
+div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi, div.wpappbox
 {
     visibility: visible;
     width:100%;
 }
-div.header, div.menue, div.search, div.menu-hauptmenue-container, div.clear, div.social-top,div.sidebar, div.footer, center, .alignnone
+div.qrcode, div.appicon, div.applinks, div.appdetails, div.screenshots, div.appbuttons,
+div.apptitle, div.developer, div.price, div.slider, div.rating-stars, div.comments-loop-start
+{
+  visibility: visible;
+}
+div.header, div.menue, div.search, div.menu-hauptmenue-container, div.clear, div.social-top,div.sidebar, div.footer, center, .alignnone, div.footerclose
 {
   visibility: hidden;
   height: 0px;
@@ -21,4 +26,41 @@ div.header, div.menue, div.search, div.menu-hauptmenue-container, div.clear, div
   background: none;
   padding:0 0 0 0;
   margin: 0 0 0 0;
+}
+div.entry p{
+  margin-left: 150px;
+}
+div.entry p a img {
+  margin-left: -150px;
+}
+
+
+.content .entry-infos
+{
+  background-color: white;
+}
+.content .entry-infos .more-button{
+
+  margin-left: 65%;
+
+}
+.comments-loop-start
+{
+  max-width: 100px;
+  padding: 0 0 0 0;
+}
+.content .entry-infos .comments-loop-start
+{
+width: auto;
+}
+p{
+  text-align: justify;
+}
+td{
+  padding-bottom: 0px;
+}
+table
+{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
 }
