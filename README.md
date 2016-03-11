@@ -20,6 +20,9 @@ A dark theme for pocket.
 * Artikelsharing
 
 # Changelog
+##11.03.2016
+*Arbeit an No Sidebar Option (branch nosidebar)- buggy
+
 ##10.03.2016
 * sidebar
 * genereller Text
