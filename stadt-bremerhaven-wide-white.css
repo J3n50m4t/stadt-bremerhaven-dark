@@ -8,17 +8,17 @@ div
   height: 0px;
   width: 0px;
 }
-div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi, div.wpappbox
+div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi, div.wpappbox, div#recent-posts
 {
     visibility: visible;
     width:100%;
 }
 div.qrcode, div.appicon, div.applinks, div.appdetails, div.screenshots, div.appbuttons,
-div.apptitle, div.developer, div.price, div.slider, div.rating-stars, div.comments-loop-start
+div.apptitle, div.developer, div.price, div.slider, div.rating-stars, div.comments-loop-start, div.asa_async_container, div.asa_product_box
 {
   visibility: visible;
 }
-div.header, div.menue, div.search, div.menu-hauptmenue-container, div.clear, div.social-top,div.sidebar, div.footer, center, .alignnone, div.footerclose
+div.header, div.menue, div.search, div.menu-hauptmenue-container, div.clear, div.social-top,div.sidebar, div.footer, .alignnone, div.footerclose, div.sharing-is-caring-box, ul.socialbar, .pluginSkinLight .pluginFontHelvetica
 {
   visibility: hidden;
   height: 0px;
@@ -63,4 +63,15 @@ table
 {
   margin: 0 0 0 0;
   padding: 0 0 0 0;
+}
+div.entry p a img.aligncenter
+{
+  align-content: center;
+  margin-left: 200px;
+  margin-right: auto;
+}
+
+div.asa_product_box div
+{
+  visibility: visible;
 }
