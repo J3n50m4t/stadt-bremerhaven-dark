@@ -1,0 +1,129 @@
+@-moz-document domain("stadt-bremerhaven.de") {
+body{
+  background-color: rgb(57, 57, 57);
+  background-image: url(/*[[backgroundbody]]*/) !important;
+  color:rgb(155, 157, 156);
+}
+div
+{
+  visibility: hidden;
+  padding: 0 0 0 0;
+}
+/* Hide */
+div.header, div.menue, div.search, div.menu-hauptmenue-container, div.clear, div.social-top,div.sidebar, div.footer, .alignnone, div.footerclose
+{
+  visibility: hidden;
+  height: 0px;
+  width: 0px;
+  background: none;
+  padding:0 0 0 0;
+  margin: 0 0 0 0;
+}
+div.complete table tbody tr /* erster Werbeblog über Header */
+{
+  visibility: visible;
+}
+.logo /* Logo + Logo Center (Sonst kein Zurück mehr auf Unterseiten) */
+{
+  margin-left: 170px;
+  visibility: visible;
+}
+/* CONTENT - evtl fehlen einige Plugins noch  - bitte bei mir melden falls ich was übersehe - werde dann updaten sobald möglich*/
+div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi, div.wpappbox, div#recent-posts,   div#comments-loaded, div#comments-loaded div
+{
+    visibility: visible;
+    width:100%;
+    background-color: rgb(51, 51, 51);
+}
+div.qrcode, div.appicon, div.applinks, div.appdetails, div.screenshots, div.appbuttons,
+div.apptitle, div.developer, div.price, div.slider, div.rating-stars, div.comments-loop-start, div.asa_async_container, div.asa_product_box
+{
+  visibility: visible;
+
+  background-color: rgb(51, 51, 51);
+}
+/* Content ENDE */
+/*Authorenbox volle breite setzen */
+div.author, div.author div,div.sharing-is-caring-box, div.sharing-is-caring-box div
+{
+  visibility: visible;
+  width:100% !important;
+  background-color: rgb(51, 51, 51);
+}
+
+.content .entry-infos
+{
+  background-color: rgb(51, 51, 51);
+}
+.content .entry-infos .more-button{
+  margin-left: 65%;
+}
+.comments-loop-start
+{
+  max-width: 100px;
+  padding: 0 0 0 0;
+}
+.content .entry-infos .comments-loop-start
+{
+width: auto;
+}
+p{
+  text-align: justify;
+}
+td{
+  padding-bottom: 0px;
+}
+table
+{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+div.entry p a img.aligncenter
+{
+  align-content: center;
+  margin-right: auto;
+}
+div.asa_product_box div
+{
+  visibility: visible;
+}
+.comment-useravatar
+{
+  text-align: left;
+}
+body center{
+  display: none;
+}
+/* Content Theming*/
+/* Links */
+.content a
+{
+  color:/*[[fontcolor]]*/;
+  font-weight: bold;
+}
+/* Überschrift Artikelseite , Startseite*/
+div.content h1 a, .content h3 a
+{
+  color:rgb(155, 157, 156);
+}
+/*Read more Button */
+.content .entry-infos .more-button
+{
+  background: rgb(108, 108, 108);
+}
+/* Veröffentlicht am*/
+.content .meta
+{
+  color:rgb(155, 157, 156);
+}
+/*sharing box override */
+.sharing-is-caring-box
+{
+  background: rgb(51, 51, 51) !important;
+}
+.comment, .comment-useravatar, .comment-abo
+{
+  border: none;
+}
+
+}
