@@ -16,6 +16,7 @@ Als täglicher Besucher des Blogs [stadt-bremerhaven](http://stadt-bremerhaven.d
 
 ## Bekannte Fehler / Todo
 * riesiger Freibereich am Ende der Seite.
+* Dark mit Sidebar erstmal pausiert
 
 # Changelog
 ##17.02.2016
