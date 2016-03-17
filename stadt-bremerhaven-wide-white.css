@@ -1,3 +1,4 @@
+@-moz-document domain("stadt-bremerhaven.de") {
 div
 {
   visibility: hidden;
@@ -83,4 +84,5 @@ div.asa_product_box div
 }
 body center{
   display: none;
+}
 }
