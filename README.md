@@ -1,25 +1,28 @@
-# stadt-bremerhaven-dark
-Dark Theme für http://stadt-bremerhaven.de/
+# stadt-bremerhaven
+Theme für [stadt-bremerhaven](http://stadt-bremerhaven.de/)
 
 # stadt-bremerhaven dunkles Theming
-A dark theme for pocket.
+Als täglicher Besucher des Blogs [stadt-bremerhaven](http://stadt-bremerhaven.de/) brauche ich keine Sidebar und habe deshalb Diese entfernt.
 
-* Installieren über zB [userstyles.org](https://userstyles.org/styles/125407/stadt-bremerhaven-darked).
+* Installieren über userstyles oder manuell über die css Datei
+* Hell: [userstyles](https://userstyles.org/styles/125663/stadt-bremerhaven-no-sidebar)
+* Dunkel:[userstyles](https://userstyles.org/styles/125407/stadt-bremerhaven-no-sidebar-dark)
 
 ## Vorschau
-![](http://i.imgur.com/NF4Gud2.png)
-![](http://i.imgur.com/PmKa8AM.png)
+###Dunkles
+![](http://i.imgur.com/m4DGQQh.png)
+###Helles
+![](http://i.imgur.com/OlW0V3V.png)
 
 ## Bekannte Fehler / Todo
-* Verlinkte Apps
-* nicht alle Plugins angepasst
-* Tippspielseite
-* Linkicon
-* Textinput
-* Kommentare
-* Artikelsharing
+* riesiger Freibereich am Ende der Seite.
 
 # Changelog
+##17.02.2016
+* Kommentare
+* Authorenbox
+* Dunkles Theme
+
 ##11.03.2016
 *Arbeit an No Sidebar Option (branch nosidebar)- buggy
 
