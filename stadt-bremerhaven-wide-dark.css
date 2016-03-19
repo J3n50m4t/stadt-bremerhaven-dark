@@ -35,6 +35,12 @@ div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi, div.
     width:100%;
     background-color: rgb(51, 51, 51);
 }
+div.scbb-content-box
+{
+  visibility: visible;
+  width: 95%;
+  background-color: rgb(70, 70, 70);
+}
 div.qrcode, div.appicon, div.applinks, div.appdetails, div.screenshots, div.appbuttons,
 div.apptitle, div.developer, div.price, div.slider, div.rating-stars, div.comments-loop-start, div.asa_async_container, div.asa_product_box
 {

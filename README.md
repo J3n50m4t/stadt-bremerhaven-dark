@@ -19,7 +19,10 @@ Als täglicher Besucher des Blogs [stadt-bremerhaven](http://stadt-bremerhaven.d
 * Dark mit Sidebar erstmal pausiert
 
 # Changelog
-##17.02.2016
+##19.03.2016
+* Weiteren Lesestoff Box am Ende einiger Anleitungen sichtbar gemacht
+
+##17.03.2016
 * Kommentare
 * Authorenbox
 * Dunkles Theme
