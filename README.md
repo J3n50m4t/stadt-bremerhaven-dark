@@ -19,6 +19,10 @@ Als täglicher Besucher des Blogs [stadt-bremerhaven](http://stadt-bremerhaven.d
 * Dark mit Sidebar erstmal pausiert
 
 # Changelog
+##31.03.2016
+* versuchter Footerfix rückgängig gemacht
+* Verzeichnis cleanup
+
 ##19.03.2016
 * Weiteren Lesestoff Box am Ende einiger Anleitungen sichtbar gemacht
 
