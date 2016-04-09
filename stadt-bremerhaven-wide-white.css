@@ -44,7 +44,6 @@ div.wp-caption{
   visibility: visible;
   border: 0;
   width:100% !important;
-  background-color: rgb(51, 51, 51);
 }
 /*Bildunterschrift*/
 p.wp-caption-text{
