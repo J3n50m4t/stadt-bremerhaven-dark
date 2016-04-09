@@ -35,6 +35,15 @@ div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi, div.
     width:100%;
     background-color: rgb(51, 51, 51);
 }
+/* Avatare und Kommentare nebeneinander*/
+div.comment-useravatar{
+    width: 50px !important;
+  }
+  div.comment{
+    width: 90% !important;
+  }
+
+  /**/
 div.scbb-content-box
 {
   visibility: visible;

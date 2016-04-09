@@ -29,6 +29,15 @@ div.content, div.entry, div.entry-infos, div.next-content, div.wp-pagenavi, div.
     visibility: visible;
     width:100%;
 }
+/* Avatare und Kommentare nebeneinander*/
+div.comment-useravatar{
+    width: 50px !important;
+  }
+  div.comment{
+    width: 90% !important;
+  }
+
+  /**/
 div.scbb-content-box
 {
   visibility: visible;
@@ -99,5 +108,10 @@ div.asa_product_box div
 }
 body center{
   display: none;
+}
+.content a
+{
+  color:/*[[fontcolor]]*/;
+  font-weight: bold;
 }
 }

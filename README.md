@@ -21,6 +21,8 @@ Als täglicher Besucher des Blogs [stadt-bremerhaven](http://stadt-bremerhaven.d
 # Changelog
 ##09.04.2016
 * Erstes Bild im Beitrag wurde nicht angezeigt.
+* Kommentare und zugehörige Avatare nebeneinander und nicht mehr untereinander
+* Helles Theme jetzt mit Möglichkeit die Linkfarbe anzupassen (hoffentlich durchgehend)
 
 ##31.03.2016
 * versuchter Footerfix rückgängig gemacht
