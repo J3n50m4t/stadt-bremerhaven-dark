@@ -19,6 +19,9 @@ Als täglicher Besucher des Blogs [stadt-bremerhaven](http://stadt-bremerhaven.d
 * Dark mit Sidebar erstmal pausiert
 
 # Changelog
+##09.04.2016
+* Erstes Bild im Beitrag wurde nicht angezeigt.
+
 ##31.03.2016
 * versuchter Footerfix rückgängig gemacht
 * Verzeichnis cleanup

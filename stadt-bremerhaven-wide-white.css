@@ -39,6 +39,17 @@ div.apptitle, div.developer, div.price, div.slider, div.rating-stars, div.commen
 {
   visibility: visible;
 }
+/* Erstes Bild im Beitrag*/
+div.wp-caption{
+  visibility: visible;
+  border: 0;
+  width:100% !important;
+  background-color: rgb(51, 51, 51);
+}
+/*Bildunterschrift*/
+p.wp-caption-text{
+  padding-left: 40% !important;
+}
 /* Content ENDE */
 /*Authorenbox volle breite setzen */
 div.author, div.author div,div.sharing-is-caring-box, div.sharing-is-caring-box div
