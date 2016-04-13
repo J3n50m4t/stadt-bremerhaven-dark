@@ -19,6 +19,11 @@ Als täglicher Besucher des Blogs [stadt-bremerhaven](http://stadt-bremerhaven.d
 * Dark mit Sidebar erstmal pausiert
 
 # Changelog
+##13.04.2016
+* Helles Theme scheitn mit dem neuen Umfrage/Facebook Tool gut zu arbeiten
+* Dunkles Theme ist aktuell nur sichtbar und farblich nicht angepasst. Problem scheint hier, dass eine weitere css nachgeladen wird - zumindest hat er meine Änderungen auf die Schnelle nicht akzeptiert
+* Steht auf der Liste eine Lösung zu suchen - aktuell wenig Zeit. Falls es wer löst kann er sich gern bei mir melden ich würde es dann aufnehmen
+
 ##09.04.2016
 * Erstes Bild im Beitrag wurde nicht angezeigt.
 * Kommentare und zugehörige Avatare nebeneinander und nicht mehr untereinander
