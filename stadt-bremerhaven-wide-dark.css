@@ -151,5 +151,9 @@ div.content h1 a, .content h3 a
 {
   border: none;
 }
+/*playbuzzblugin */
 
+iframe{
+    visibility: visible !important;
+  }
 }

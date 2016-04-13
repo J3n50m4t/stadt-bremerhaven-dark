@@ -114,4 +114,9 @@ body center{
   color:/*[[fontcolor]]*/;
   font-weight: bold;
 }
+/*playbuzzblugin */
+
+iframe{
+    visibility: visible !important;
+  }
 }
